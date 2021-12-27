@@ -21,7 +21,7 @@
   "dependencies": {
     "axios": "^0.21.0",
     "camelize": "^1.0.0",
-    "keycloak-js": "^15.0.2",
+    "keycloak-js": "^16.1.0",
     "lodash": "^4.17.21",
     "query-string": "^7.0.1",
     "url-join": "^4.0.0",
